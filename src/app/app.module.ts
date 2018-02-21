@@ -13,7 +13,7 @@ import { AppComponent } from './app.component';
   ],
   imports: [
     AgmCoreModule.forRoot({
-     apiKey: "AIzaSyAoyGdoiLgwxZnMUViyiPC-P4xTtfXHq58",
+     apiKey: "KEEP KEY HERE",
      libraries: ["places"]
    }),
     BrowserModule,
